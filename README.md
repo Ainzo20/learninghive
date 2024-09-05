@@ -19,7 +19,7 @@ This app uses **Hive** for local storage, allowing you to store your events effi
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Ainzo20/learninghive.git
    ```
 2. Navigate to the project directory:
    ```bash
